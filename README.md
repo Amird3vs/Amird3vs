@@ -30,7 +30,7 @@ I'm Amir, a full-stack developer in the Philippines working mainly within the Mi
 ### Web Applications
 
 **[UmmahHub](https://ummahhub-production.up.railway.app)**
-A community-driven directory for discovering nearby mosques and halal-friendly places, where users can contribute new locations. Built with Blazor WebAssembly.
+A discovery platform for finding nearby mosques and halal-friendly places, with prayer times, Islamic events, and map-based location search. Built with Blazor WebAssembly, ASP.NET Core, and PostgreSQL.
 
 ### Libraries & Packages
 
