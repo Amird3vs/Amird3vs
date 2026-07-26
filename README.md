@@ -7,7 +7,7 @@ I'm Amir, a full-stack developer in the Philippines working mainly within the Mi
 <table>
   <tr>
     <td>🌐 <b>Portfolio:</b></td>
-    <td><a href="https://amirdevs.vercel.app">amirdevs.vercel.app</a></td>
+    <td><a href="https://www.amir.is-a.dev">amir.is-a.dev</a></td>
   </tr>
   <tr>
     <td>💼 <b>LinkedIn:</b></td>
