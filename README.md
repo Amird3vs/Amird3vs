@@ -1,5 +1,4 @@
 ## Assalāmu 'Alaikum! 👋
-
 I'm Amir, a full-stack developer in the Philippines working mainly within the Microsoft/.NET ecosystem. My focus is building maintainable web applications with Blazor, ASP.NET Core, and SQL Server, with a strong interest in clean architecture.
 
 <p>
@@ -43,5 +42,4 @@ A zero-setup range formatter for dates, numbers, and money, turning two values i
 </table>
 
 ## 🌱 Currently Learning
-
 `.NET Aspire` · `Docker` · `Azure` · `Clean Architecture` · `Microservices` · `System Design`
