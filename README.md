@@ -1,13 +1,7 @@
 ## Assalāmu 'Alaikum! 👋
 I'm Amir, a full-stack developer in the Philippines working mainly within the Microsoft/.NET ecosystem. My focus is building maintainable web applications with Blazor, ASP.NET Core, and SQL Server, with a strong interest in clean architecture.
 
-<p>
-<a href="https://www.amir.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" align="left" hspace="4"></a>
-<a href="https://linkedin.com/in/bili-amir-khan-a-95683a2b7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" align="left" hspace="4"></a>
-<a href="mailto:amirkhanbili695@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" align="left" hspace="4"></a>
-<a href="https://www.nuget.org/profiles/Amird3vs"><img src="https://img.shields.io/badge/NuGet-004880?style=flat&logo=nuget&logoColor=white" alt="NuGet" align="left" hspace="4"></a>
-<br clear="all">
-</p>
+<p><a href="https://www.amir.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" align="left"></a><a href="https://linkedin.com/in/bili-amir-khan-a-95683a2b7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" align="left"></a><a href="mailto:amirkhanbili695@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" align="left"></a><a href="https://www.nuget.org/profiles/Amird3vs"><img src="https://img.shields.io/badge/NuGet-004880?style=flat&logo=nuget&logoColor=white" alt="NuGet" align="left"></a><br clear="all"></p>
 
 ## 🚀 Projects
 
@@ -17,12 +11,7 @@ I'm Amir, a full-stack developer in the Philippines working mainly within the Mi
 
 #### 🕌 <a href="https://ummahhub-production.up.railway.app">UmmahHub</a>
 
-<p>
-<img src="https://img.shields.io/badge/Blazor%20WASM-512BD4?style=flat&logo=blazor&logoColor=white" alt="Blazor WASM" align="left" hspace="4">
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core" align="left" hspace="4">
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" align="left" hspace="4">
-<br clear="all">
-</p>
+<p><img src="https://img.shields.io/badge/Blazor%20WASM-512BD4?style=flat&logo=blazor&logoColor=white" alt="Blazor WASM" align="left"><img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core" align="left"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" align="left"><br clear="all"></p>
 
 A discovery platform for nearby mosques and halal-friendly places, with prayer times, Islamic events, and map-based search.
 
@@ -31,12 +20,7 @@ A discovery platform for nearby mosques and halal-friendly places, with prayer t
 
 #### 📦 <a href="https://github.com/Amird3vs/RangeHumanizer">RangeHumanizer</a>
 
-<p>
-<a href="https://www.nuget.org/packages/RangeHumanizer"><img src="https://img.shields.io/nuget/v/RangeHumanizer.svg?label=version" alt="NuGet Version" align="left" hspace="4"></a>
-<a href="https://www.nuget.org/packages/RangeHumanizer"><img src="https://img.shields.io/nuget/dt/RangeHumanizer.svg?label=downloads&color=blue" alt="NuGet Downloads" align="left" hspace="4"></a>
-<a href="https://github.com/Amird3vs/RangeHumanizer/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT" align="left" hspace="4"></a>
-<br clear="all">
-</p>
+<p><a href="https://www.nuget.org/packages/RangeHumanizer"><img src="https://img.shields.io/nuget/v/RangeHumanizer.svg?label=version" alt="NuGet Version" align="left"></a><a href="https://www.nuget.org/packages/RangeHumanizer"><img src="https://img.shields.io/nuget/dt/RangeHumanizer.svg?label=downloads&color=blue" alt="NuGet Downloads" align="left"></a><a href="https://github.com/Amird3vs/RangeHumanizer/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT" align="left"></a><br clear="all"></p>
 
 A zero-setup range formatter for dates, numbers, and money, turning two values into one clean string.
 
